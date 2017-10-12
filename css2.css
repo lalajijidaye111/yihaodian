@@ -1,0 +1,42 @@
+.dibu{
+    width: 1350px;
+    height: 100px;
+    background-color: #fff;
+    margin-top: 30px;
+}
+.dibu>ul{
+    list-style: none;
+    display: flex;
+    font-size: 13px;
+    color: #5e6a68;
+    margin-left: 100px;
+}
+.dibu>ul>li{
+    border-right: 1px  solid  #5e6a68;
+    padding: 0 20px;
+}
+.dibu>ul>.qingchu{
+    border: none;
+}
+.dibu2{
+    text-align: center;
+}
+.dibu2>ul{
+    list-style: none;
+    display: flex;
+    font-size: 13px;
+    color: #5e6a68;
+    margin: 10px 100px;
+    padding-left: 160px;
+}
+.dibu2>ul>li{
+    padding: 0 20px;
+    border-right: 1px  solid  #5e6a68;
+}
+.dibu2>p{
+    color: #5e6a68;
+}
+.dibu3>p{
+    color: #5e6a68;
+    text-align: center;
+}
